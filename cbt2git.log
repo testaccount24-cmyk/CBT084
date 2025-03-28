@@ -1,0 +1,4 @@
+2025-03-28 15:09:54.710419 - Received CBT.V508.FILE084.PDS from FILE084.XMI 
+2025-03-28 15:09:54.711292 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE084.PDS, moved to PDS/$$$#DATE
+2025-03-28 15:09:54.711809 - Found @FILE084.txt (text/plain) in CBT.V508.FILE084.PDS, moved to PDS/@FILE084
+2025-03-28 15:09:54.712350 - Found MAPLPA.bin (application/octet-stream) in CBT.V508.FILE084.PDS, moved to PDS/MAPLPA
